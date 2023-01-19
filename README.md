@@ -28,29 +28,63 @@ The “potential” column of this table is intended to capture the most essenti
 Potential for areas of life can be seen as an energy that can be used to create and manifest your desired outcomes. It is important to remember that these potentials are not meant to be end goals, but rather tools to help you achieve your goals. 
 
 ### Element 
-The element column of this table is intended to capture the type of energy that is associated with each sphere of life. It is meant to represent the fundamental force that drives the potential associated with each sphere. For example, the element associated with the sphere of “Image” is “Fire” which is the element of passion and drive. The element associated with the sphere of “Economy” is “Earth” which is the element of stability and security. The elements can be seen as the energy that fuels our potentials and helps us manifest our desired outcomes. It is important to remember that these elements are not meant to be definitive, but rather a guideline for understanding the energies associated with each sphere.
+The element column of this table is intended to capture the type of energy that is associated with each sphere of life. It is meant to represent the fundamental force that drives the potential associated with each sphere. 
 
-Fire represents energy, passion, and transformation. It is associated with the color red and is associated with the south direction.
-Earth represents stability, structure, and practicality. It is associated with the color brown and is associated with the north direction.
-Air represents communication, thought, and movement. It is associated with the color yellow and is associated with the east direction.
-Water represents emotion, intuition, and flow. It is associated with the color blue and is associated with the west direction.
+For example, the element associated with the sphere of “Image” is “Fire” which is the element of passion and drive. The element associated with the sphere of “Economy” is “Earth” which is the element of stability and security. The elements can be seen as the energy that fuels our potentials and helps us manifest our desired outcomes. It is important to remember that these elements are not meant to be definitive, but rather a guideline for understanding the energies associated with each sphere.
+
+* Fire represents energy, passion, and transformation. It is associated with the color red and is associated with the south direction.
+* Earth represents stability, structure, and practicality. It is associated with the color brown and is associated with the north direction.
+* Air represents communication, thought, and movement. It is associated with the color yellow and is associated with the east direction.
+* Water represents emotion, intuition, and flow. It is associated with the color blue and is associated with the west direction.
 
 ### Zodiac Sign 
 The zodiac sign column of this table is intended to capture the type of personality that is associated with each sphere of life. It is meant to represent the traits and characteristics that people typically embody in order to excel in each area. 
 
 For example, the zodiac sign associated with the sphere of “Image” is “Aries” which is the sign of self-confidence and boldness. 
 
-The zodiac sign associated with the sphere of “Economy” is “Taurus” which is the sign of practicality and reliability. The zodiac signs can be seen as an indication of the type of personality that is best suited to each area of life. It is important to remember that these signs are not meant to be definitive, but rather a guideline for understanding the energies associated with each sphere. 
+The zodiac sign associated with the sphere of “Economy” is “Taurus” which is the sign of practicality and reliability. The zodiac signs can be seen as an indication of the type of personality that is best suited to each area of life. 
+
+### Olympian gods
+The Olympian gods column of this table is intended to capture the type of divine energy that is associated with each sphere of life. It is meant to represent the qualities and attributes of the gods that people typically embody in order to excel in each area. 
+
+For example, the Olympian god associated with the sphere of “Image” is “Apollo” which is the god of beauty, music and the arts. The Olympian god associated with the sphere of “Economy” is “Demeter” which is the goddess of agriculture and abundance. 
+
+The Olympian gods can be seen as an indication of the type of divine energy that is best suited to each area of life. 
+
+### Jyotirlinga
+The Jyotirlinga column of this table is intended to capture the type of spiritual energy that is associated with each sphere of life. It is meant to represent the type of spiritual energy that is typically associated with each Jyotirlinga. 
+
+Jyotirlinga is a Sanskrit term meaning "pillar of light". It is a representation of the divine energy of the Supreme Being, and it is believed to be a source of spiritual power. Each Jyotirlinga is associated with a specific deity and it is believed to provide a connection to the divine. 
+
+### 12 months of the year
+
+The month column of this table is intended to capture the type of energy that is associated with each sphere of life. It is meant to represent the type of energy that is typically associated with each month of the year. 
+
+For example, the month associated with the sphere of “Image” is “January” which is associated with the energy of new beginnings and fresh starts. The month associated with the sphere of “Economy” is “February” which is associated with the energy of abundance and prosperity. The months can be seen as an indication of the type of energy that is best suited to each area of life. 
+
+### 12 Imams of the Shia Muslims 
+
+The 12 Imams of the Shia Muslims is a spiritual and religious concept that is based on the teachings of the Islamic faith. The 12 Imams are a spiritual lineage that includes the Prophet Muhammad and his descendants, who are believed to be the most perfect human beings and the rightful leaders of the Muslims.
+
+The 12 Imams of the Shia Muslims column of this table is intended to capture the type of leadership that is associated with each sphere of life. It is meant to represent the qualities and characteristics that people typically embody in order to excel in each area. 
+
+For example, the 12 Imams of the Shia Muslims associated with the sphere of “Image” is “Ali” which is the Imam of courage and bravery. The 12 Imams of the Shia Muslims associated with the sphere of “Economy” is “Hassan” which is the Imam of wisdom and knowledge. The 12 Imams can be seen as an indication of the type of leadership that is best suited to each area of life. 
 
 ### Arcane Tarot 
-The arcane tarot column of this table is intended to capture the type of archetype that is associated with each sphere of life. It is meant to represent the archetypes that people typically embody in order to excel in each area. For example, the arcane tarot associated with the sphere of “Image” is “The Fool” which is the archetype of risk-taking and adventure. The arcane tarot associated with the sphere of “Economy” is “The Magician” which is the archetype of resourcefulness and creativity.
+The arcane tarot column of this table is intended to capture the type of archetype that is associated with each sphere of life. It is meant to represent the archetypes that people typically embody in order to excel in each area. 
+
+For example, the arcane tarot associated with the sphere of “Image” is “The Fool” which is the archetype of risk-taking and adventure. The arcane tarot associated with the sphere of “Economy” is “The Magician” which is the archetype of resourcefulness and creativity.
 
 ### Alchemical stage
 The Alchemical stage column in the table provided refers to the different stages of the alchemical process, which is a symbolic and metaphorical journey of transformation and personal growth.
 
 Alchemy is an ancient practice that involves the transformation of base metals into gold, which is a metaphor for the transformation of the self. The Alchemical stages are a symbolic representation of the different stages of personal growth and transformation.
 
-The alchemical stage column of this table is intended to capture the type of transformation that is associated with each sphere of life. It is meant to represent the process of growth and development that people typically undergo in order to excel in each area. For example, the alchemical stage associated with the sphere of “Image” is “Calcination” which is the process of burning away the old in order to create the new. The alchemical stage associated with the sphere of “Economy” is “Solution” which is the process of dissolving the old in order to create the new. The alchemical stages can be seen as an indication of the type of transformation that is best suited to each area of life. It is important to remember that these stages are not meant to be definitive, but rather a guideline for understanding the energies associated with each sphere.
+The alchemical stage column of this table is intended to capture the type of transformation that is associated with each sphere of life. It is meant to represent the process of growth and development that people typically undergo in order to excel in each area. 
+
+For example, the alchemical stage associated with the sphere of “Image” is “Calcination” which is the process of burning away the old in order to create the new. The alchemical stage associated with the sphere of “Economy” is “Solution” which is the process of dissolving the old in order to create the new. The alchemical stages can be seen as an indication of the type of transformation that is best suited to each area of life. 
+
+It is important to remember that these stages are not meant to be definitive, but rather a guideline for understanding the energies associated with each sphere.
 
 ## Field
 Kurt Lewin's concept of Field theory can be applied to the overall discussion of spheres of life, elements, zodiac signs, arcane tarot, alchemical stage and energy. According to Lewin, a person's behavior is shaped by the psychological field in which they are located. This field is made up of three elements: the person, the environment, and the behavior that connects them.
