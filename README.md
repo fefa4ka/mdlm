@@ -157,6 +157,12 @@ Based on:
 * OpenAI
 * Alexander Kondratev 
 
+The theories of the psychic field of Vladimir Bekhterev, Pierre Janet's theories of the energy system, and William James' theories of energy flow all focus on the idea of energy flow within the individual and how it shapes their behavior. They also align with the concept of Field theory by emphasizing the interaction between the individual and their environment.
+
+Kurt Levin's dynamical field theory, Lev Vygotsky's dynamic theory of consciousness, and Alexey Leontiev's theory of consciousness as an activity all focus on the idea of change and development within the individual. They align with the concept of Field theory by emphasizing the dynamic nature of the individual and their behavior.
+
+Gordon Allport's theories of personality construction focus on the idea of the individual's unique characteristics and how they shape their behavior. They align with the concept of Field theory by emphasizing the individual's unique characteristics and how they interact with their environment to shape their behavior.
+
 ## License
 This project is licensed under the GNU License - see the LICENSE.md file for details
 
