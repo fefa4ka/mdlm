@@ -4,20 +4,20 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 **Note**: This is a symbolic and metaphorical system and the associations are not definitive. It's important to remember that these concepts are open to interpretation. This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
-| Sphere of life | Potential | Element | Zodiac Sign | Animal | Gods | Jyotirlinga | Arcane Tarot | Alchemical stage |
+| Sphere of life | Potential | Element | Zodiac Sign | Animal | Gods | Jyotirlinga | Arcane Tarot | Month | Alchemical stage |
 |-|-|-|-|-|-|-|-|-|
-| Image | Charm | Fire | Aries | Snake | Apollo | Somanatha | Fool | Calcination | 
-| Economy | Money | Earth | Taurus | Pig | Demeter | Mallikarjuna | Mag | Solution |
-| Study | Awareness | Air |  Gemini | Horse | Athena | Mahakaleshwara |  Priestess | Separation |
-| Family | Fervor | Water | Cancer | Dog | Hera | Omkareshwar | Empress | Conjunction |
-| Art | Creativity | Fire | Lion | Tiger | Appolo | Kedarnath | Emperor | Putrefaction |
-| Health | Vitality | Earth | Virgin | Goat | Asclepius | Bhimashankar | Priest | Coagulation |
-| Love | Empathy | Air | Libra | Monkey | Aphrodite | Viswanath | Lovers | Civation |
-| Sex | Inspiration | Water | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | Sublimation |
-| Altruism | Selflessness | Fire | Sagittarius | Ox | Hercules | Vaidyanath | Justice | Fermentation |
-| Work | Productivity | Earth | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | Exaltation |
-| Friendship | Connection | Air | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | Animation |
-| Trans | Flexibility | Water | Fish | Dragon | Dionysus | Grishneshwar | Power | Projection |
+| Image | Charm | Fire | Aries | Snake | Apollo | Somanatha | Fool | January | Calcination | 
+| Economy | Money | Earth | Taurus | Pig | Demeter | Mallikarjuna | Mag | February | Solution |
+| Study | Awareness | Air |  Gemini | Horse | Athena | Mahakaleshwara |  Priestess | March | Separation |
+| Family | Fervor | Water | Cancer | Dog | Hera | Omkareshwar | Empress | April | Conjunction |
+| Art | Creativity | Fire | Lion | Tiger | Appolo | Kedarnath | Emperor | May | Putrefaction |
+| Health | Vitality | Earth | Virgin | Goat | Asclepius | Bhimashankar | Priest | June | Coagulation |
+| Love | Empathy | Air | Libra | Monkey | Aphrodite | Viswanath | Lovers | July | Civation |
+| Sex | Inspiration | Water | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | August | Sublimation |
+| Altruism | Selflessness | Fire | Sagittarius | Ox | Hercules | Vaidyanath | Justice | September | Fermentation |
+| Work | Productivity | Earth | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | October | Exaltation |
+| Friendship | Connection | Air | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | November | Animation |
+| Trans | Flexibility | Water | Fish | Dragon | Dionysus | Grishneshwar | Power | December | Projection |
 
 ## Life Sphere Attributes
 ### Sphere of Life
