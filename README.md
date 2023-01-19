@@ -142,16 +142,20 @@ A person who lacks resources in the sphere of:
 ## Contribution
 The concepts of sphere of life, element, zodiac sign, arcane tarot, and alchemical stage have been developed over time by a variety of authors, thinkers, and practitioners. We encourage others to contribute to this work by providing feedback, suggestions, and new perspectives on these concepts.
 
-## Authors
+Based on: 
 * Ancient Greek philosophers
 * Astrologers
 * Tarot practitioners
 * Alchemists
 * Carl Jung
+* Pierre Janet
 * Kurt Lewin
+* William James
+* Gordon Allport
+* Vladimir Bekhterev
 * Marina Komissarova
 * OpenAI
-* Alexander Kondratev
+* Alexander Kondratev 
 
 ## License
 This project is licensed under the GNU License - see the LICENSE.md file for details
