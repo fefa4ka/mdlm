@@ -4,20 +4,20 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 **Note**: This is a symbolic and metaphorical system and the associations are not definitive. It's important to remember that these concepts are open to interpretation. This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
-| Sphere of life | Potential | Element | Zodiac Sign | Animal | Arcane Tarot | Alchemical stage |
-|-|-|-|-|-|-|-|
-| Image | Charm | Fire | Aries | Snake | Fool | Calcination | 
-| Economy | Money | Earth | Taurus | Pig | Mag | Solution |
-| Study | Awareness | Air |  Gemini | Horse | Priestess | Separation |
-| Family | Fervor | Water | Cancer | Dog | Empress | Conjunction |
-| Art | Creativity | Fire | Lion | Tiger | Emperor | Putrefaction |
-| Health | Vitality | Earth | Virgin | Goat | Priest | Coagulation |
-| Love | Empathy | Air | Libra | Monkey | Lovers | Civation |
-| Sex | Inspiration | Water | Scorpio | Rooster | Chariot | Sublimation |
-| Altruism | Selflessness | Fire | Sagittarius | Ox | Justice | Fermentation |
-| Work | Productivity | Earth | Capricorn | Rat | Hermit | Exaltation |
-| Friendship | Connection | Air | Aquarius | Rabbit | Wheel of Fortune | Animation |
-| Trans | Flexibility | Water | Fish | Dragon | Power | Projection |
+| Sphere of life | Potential | Element | Zodiac Sign | Animal | Gods | Jyotirlinga | Arcane Tarot | Alchemical stage |
+|-|-|-|-|-|-|-|-|-|
+| Image | Charm | Fire | Aries | Snake | Apollo | Somanatha | Fool | Calcination | 
+| Economy | Money | Earth | Taurus | Pig | Demeter | Mallikarjuna | Mag | Solution |
+| Study | Awareness | Air |  Gemini | Horse | Athena | Mahakaleshwara |  Priestess | Separation |
+| Family | Fervor | Water | Cancer | Dog | Hera | Omkareshwar | Empress | Conjunction |
+| Art | Creativity | Fire | Lion | Tiger | Appolo | Kedarnath | Emperor | Putrefaction |
+| Health | Vitality | Earth | Virgin | Goat | Asclepius | Bhimashankar | Priest | Coagulation |
+| Love | Empathy | Air | Libra | Monkey | Aphrodite | Viswanath | Lovers | Civation |
+| Sex | Inspiration | Water | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | Sublimation |
+| Altruism | Selflessness | Fire | Sagittarius | Ox | Hercules | Vaidyanath | Justice | Fermentation |
+| Work | Productivity | Earth | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | Exaltation |
+| Friendship | Connection | Air | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | Animation |
+| Trans | Flexibility | Water | Fish | Dragon | Dionysus | Grishneshwar | Power | Projection |
 
 ## Life Sphere Attributes
 ### Sphere of Life
