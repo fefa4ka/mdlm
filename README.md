@@ -71,13 +71,15 @@ In addition to the forces, there are also particles that exist in the field of l
 
 ### Flow 
 The flow of the field of life is the combination of the attraction, repulsion, balance and transformation forces. 
+
 ### Patterns 
 The patterns of the field of life are the combination of the particles and fields that make up the field. 
+
 ### Complex structures in Field 
 The field of life is a complex system that is constantly in motion and is constantly changing. However, within this system there are some patterns that remain consistent. These patterns are known as “complex structures” and they are made up of the elements, zodiac signs, arcane tarot, alchemical stages and particles that make up the field. 
 
 
-## Flow аo Energy
+## Energy Flow
 Kurt Lewin's Change Model provides a useful framework for understanding the flow of energy in each sphere of life. According to this model, the flow of energy is cyclical in nature and involves four stages: Unfreezing, Changing, Refreezing, and Sustaining. 
 
 In the Unfreezing stage, one must let go of old habits and beliefs in order to make room for new ones. In the Changing stage, one must take action in order to move towards desired goals. In the Refreezing stage, one must solidify the changes that have been made and ensure that they will be sustained. Finally, in the Sustaining stage, one must continue to take action in order to maintain the desired changes. By understanding this cyclical flow of energy, one can gain a deeper understanding of how to effectively work within each sphere of life in order to achieve one's desired outcomes.
@@ -87,6 +89,7 @@ The concept of flow in the context of spheres of life can also refer to the idea
 In this sense, a person who has a balanced and healthy flow of energy between the different spheres of life, can feel fulfilled, energized and aligned in different aspects of their life. They can move through different spheres with ease, without feeling stuck or blocked in any particular area. This flow of energy can be multidimensional, meaning that it can involve different layers of emotions, thoughts and physical sensations that allow the person to feel grounded, balanced and harmonious.
 
 On the other hand, a person who does not have a healthy flow of energy between the spheres may feel disconnected and unaligned, experiencing blockages in different areas of their life, leading them to feel unfulfilled and disconnected. Thus, having a healthy flow of energy between spheres is key to achieving balance and fulfillment in life.
+
 ### Flow Patterns
 1. **Integration**: This flow pattern involves integrating different aspects of the spheres of life to create a cohesive and harmonious whole. For example, incorporating physical activity and self-care practices into one's daily routine can help to enhance the flow of energy between the spheres of Health and Image.
 2. **Circulation**: This flow pattern involves circulating energy between different spheres to create a balance and harmony. For example, regularly engaging in social activities and networking can help to enhance the flow of energy between the spheres of Friendship and Work.
