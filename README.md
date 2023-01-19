@@ -19,6 +19,7 @@ This framework provides a holistic and multi-dimensional perspective on differen
 | Friendship | Connection | Air | Aquarius | Wheel of Fortune | Animation |
 | Trans | Flexibility | Water | Fish | Power | Projection |
 
+## Life Sphere Attributes
 ### Sphere of Life
 
 ### Potential 
