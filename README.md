@@ -52,11 +52,14 @@ Alchemy is an ancient practice that involves the transformation of base metals i
 The alchemical stage column of this table is intended to capture the type of transformation that is associated with each sphere of life. It is meant to represent the process of growth and development that people typically undergo in order to excel in each area. For example, the alchemical stage associated with the sphere of “Image” is “Calcination” which is the process of burning away the old in order to create the new. The alchemical stage associated with the sphere of “Economy” is “Solution” which is the process of dissolving the old in order to create the new. The alchemical stages can be seen as an indication of the type of transformation that is best suited to each area of life. It is important to remember that these stages are not meant to be definitive, but rather a guideline for understanding the energies associated with each sphere.
 
 ## Field
+Kurt Lewin's concept of Field theory can be applied to the overall discussion of spheres of life, elements, zodiac signs, arcane tarot, alchemical stage and energy. According to Lewin, a person's behavior is shaped by the psychological field in which they are located. This field is made up of three elements: the person, the environment, and the behavior that connects them.
 
-Kurt Lewin's Field Theory is used to in this model. According to Lewin's Field Theory all interact with each other to create a dynamic field of energy that influences our experiences. This field of energy is constantly in motion and is constantly changing, making it difficult to predict exactly how it will affect us. However, by understanding the different elements, zodiac signs, arcane tarot and alchemical stages, we can begin to gain a better understanding of how these energies work together to shape our lives. 
+For example, in the sphere of Image, the person may have a strong desire for self-expression (energy) but may be limited by societal norms and expectations (environment) which may affect their behavior and the way they present themselves to the world. In the sphere of Economy, the person may have a strong sense of practicality and stability (energy) but may be limited by financial resources (environment) which may affect their behavior in managing resources.
+
+By applying Lewin's concept of Field theory, we can understand how the individual's unique characteristics, elements, zodiac signs, arcane tarot, alchemical stage, and energy interact with the environment to shape their behavior in each sphere of life.
 
 ### Forces 
-There are also four forces that act upon the field of life. These forces are: 
+There are also two forces that act upon the field of life. These forces are: 
 1. Attraction – This is the force that draws us towards certain goals, people, and experiences. 
 2. Repulsion – This is the force that pushes us away from certain goals, people, and experiences. 
 
