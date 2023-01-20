@@ -68,10 +68,25 @@ The element column of this table is intended to capture the type of energy that 
 
 For example, the element associated with the sphere of “Image” is “Fire” which is the element of passion and drive. The element associated with the sphere of “Economy” is “Earth” which is the element of stability and security. The elements can be seen as the energy that fuels our potentials and helps us manifest our desired outcomes. It is important to remember that these elements are not meant to be definitive, but rather a guideline for understanding the energies associated with each sphere.
 
-* Fire represents energy, passion, and transformation. It is associated with the color red and is associated with the south direction.
-* Earth represents stability, structure, and practicality. It is associated with the color brown and is associated with the north direction.
-* Air represents communication, thought, and movement. It is associated with the color yellow and is associated with the east direction.
-* Water represents emotion, intuition, and flow. It is associated with the color blue and is associated with the west direction.
+#### Fire
+Fire represents energy, passion, and drive. Fire is associated with the Image sphere, representing the energy and charm that one projects to the world. It is also associated with the Art sphere, representing the energy and creativity required to create art. In the Love sphere, Fire represents the passion and energy of romantic love. In the Altruism sphere, Fire represents the energy and drive to help others. In the Trans sphere, Fire represents the energy and passion required for transformation and change.
+
+It is associated with the color red and is associated with the south direction.
+
+#### Earth
+Earth represents stability, practicality, and grounding. The element of Earth is associated with the Economy sphere, representing the stability and practicality needed to manage money. It is also associated with the Health sphere, representing the grounding and stability required for good health. In the Work sphere, Earth represents the practicality and stability required for productivity. In the Trans sphere, Earth represents the grounding and stability required for transformation and change.
+
+It is associated with the color brown and is associated with the north direction.
+
+#### Air
+The element of Air represents communication, awareness, and connection. Air is associated with the Study sphere, representing the awareness and communication required for learning. It is also associated with the Love sphere, representing the communication and connection required for love. In the Altruism sphere, Air represents the communication and connection required to help others. In the Friendship sphere, Air represents the communication and connection required for friendship. In the Trans sphere, Air represents the awareness and communication required for transformation and change.
+
+It is associated with the color yellow and is associated with the east direction.
+
+#### Water
+Water represents emotion, intuition, and adaptability. The element of Water is associated with the Family sphere, representing the emotions and intuition required for family bonding. It is also associated with the Sex sphere, representing the intuition and adaptability required for a healthy sexual relationship. In the Altruism sphere, Water represents the emotions and intuition required to help others. In the Trans sphere, Water represents the adaptability and fluidity required for transformation and change.
+
+It is associated with the color blue and is associated with the west direction.
 
 ### Zodiac Sign 
 The zodiac sign column of this table is intended to capture the type of personality that is associated with each sphere of life. It is meant to represent the traits and characteristics that people typically embody in order to excel in each area. 
