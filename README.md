@@ -4,7 +4,7 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 **Note**: This is a symbolic and metaphorical system and the associations are not definitive. It's important to remember that these concepts are open to interpretation. This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
-| Sphere of life | Potential | Element | Chackra | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Deadly Sins | Twelve Offenses | Month | Alchemical stage |
+| Sphere of life | Potential | Element | Chackra | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Deadly Sins | Brahmajāla Sūtra | Month | Alchemical stage |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
 | **[Image](#image)** | [Charm](#charm) | [Fire](#fire) | Crown, Solar Plexus | Aries | Snake | Apollo | Somanatha | Fool | Pride | Wrong views | January | Calcination | 
 | **[Economy](#economy)** | [Money](#money) | [Earth](#earth) | Root | Taurus | Pig | Demeter | Mallikarjuna | Mag | Greed | Stealing| February | Solution |
