@@ -44,6 +44,11 @@ For example, the zodiac sign associated with the sphere of “Image” is “Ari
 
 The zodiac sign associated with the sphere of “Economy” is “Taurus” which is the sign of practicality and reliability. The zodiac signs can be seen as an indication of the type of personality that is best suited to each area of life. 
 
+### Chinise zodiac
+The Chinese zodiac column of this table is intended to capture the type of animal that is associated with each sphere of life.
+
+For example, the Chinese zodiac associated with the sphere of “Image” is “Snake” which is the symbol of transformation and rebirth. The Chinese zodiac associated with the sphere of “Economy” is “Pig” which is the symbol of prosperity and abundance. 
+
 ### Olympian gods
 The Olympian gods column of this table is intended to capture the type of divine energy that is associated with each sphere of life. It is meant to represent the qualities and attributes of the gods that people typically embody in order to excel in each area. 
 
