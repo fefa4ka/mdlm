@@ -185,9 +185,9 @@ In this sense, a person who has a balanced and healthy flow of energy between th
 On the other hand, a person who does not have a healthy flow of energy between the spheres may feel disconnected and unaligned, experiencing blockages in different areas of their life, leading them to feel unfulfilled and disconnected. Thus, having a healthy flow of energy between spheres is key to achieving balance and fulfillment in life.
 
 ### Flow Patterns
-1. **Integration**: This flow pattern involves integrating different aspects of the spheres of life to create a cohesive and harmonious whole. For example, incorporating physical activity and self-care practices into one's daily routine can help to enhance the flow of energy between the spheres of Health and Image.
-2. **Circulation**: This flow pattern involves circulating energy between different spheres to create a balance and harmony. For example, regularly engaging in social activities and networking can help to enhance the flow of energy between the spheres of Friendship and Work.
-3. **Expansion**: This flow pattern involves expanding energy from one sphere to another to create a sense of interconnectedness. For example, exploring new cultures and perspectives can help to enhance the flow of energy between the spheres of Study and Trans.
+1. **Integration**: Integrating different aspects of the spheres of life to create a cohesive and harmonious whole. For example, incorporating physical activity and self-care practices into one's daily routine can help to enhance the flow of energy between the spheres of Health and Image.
+2. **Circulation**: Circulating energy between different spheres to create a balance and harmony. For example, regularly engaging in social activities and networking can help to enhance the flow of energy between the spheres of Friendship and Work.
+3. **Expansion**: Expanding energy from one sphere to another to create a sense of interconnectedness. For example, exploring new cultures and perspectives can help to enhance the flow of energy between the spheres of Study and Trans.
 4. **Reflection**: This flow pattern involves reflecting on the energy in one sphere to understand how it relates to other spheres. For example, reflecting on one's personal values and beliefs can help to enhance the flow of energy between the spheres of Altruism and Image.
 5. **Empowerment**: This flow pattern involves empowering oneself with the energy from one sphere to enhance the energy in another. For example, empowering oneself with financial stability can help to enhance the flow of energy between the spheres of Economy and Image.
 7. **Release**: This flow pattern involves releasing any blockages or tension in one sphere to enhance the flow of energy in another. For example, releasing stress and tension from work can help to enhance the flow of energy between the spheres of Work and Health.
@@ -245,7 +245,7 @@ Based on:
 * Gordon Allport
 * Vladimir Bekhterev
 * Marina Komissarova
-* OpenAI
+* OpenAI API and ChatGPT
 * Alexander Kondratev 
 
 The theories of the psychic field of Vladimir Bekhterev, Pierre Janet's theories of the energy system, and William James' theories of energy flow all focus on the idea of energy flow within the individual and how it shapes their behavior. They also align with the concept of Field theory by emphasizing the interaction between the individual and their environment.
