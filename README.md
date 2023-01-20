@@ -4,20 +4,20 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 **Note**: This is a symbolic and metaphorical system and the associations are not definitive. It's important to remember that these concepts are open to interpretation. This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
-| Sphere of life | Potential | Element | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Month | Alchemical stage |
-|-|-|-|-|-|-|-|-|-|-|
-| Image | Charm | Fire | Aries | Snake | Apollo | Somanatha | Fool | January | Calcination | 
-| Economy | Money | Earth | Taurus | Pig | Demeter | Mallikarjuna | Mag | February | Solution |
-| Study | Awareness | Air |  Gemini | Horse | Athena | Mahakaleshwara |  Priestess | March | Separation |
-| Family | Fervor | Water | Cancer | Dog | Hera | Omkareshwar | Empress | April | Conjunction |
-| Art | Creativity | Fire | Lion | Tiger | Appolo | Kedarnath | Emperor | May | Putrefaction |
-| Health | Vitality | Earth | Virgin | Goat | Asclepius | Bhimashankar | Priest | June | Coagulation |
-| Love | Empathy | Air | Libra | Monkey | Aphrodite | Viswanath | Lovers | July | Civation |
-| Sex | Inspiration | Water | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | August | Sublimation |
-| Altruism | Selflessness | Fire | Sagittarius | Ox | Hercules | Vaidyanath | Justice | September | Fermentation |
-| Work | Productivity | Earth | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | October | Exaltation |
-| Friendship | Bond | Air | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | November | Animation |
-| Trans | Flexibility | Water | Fish | Dragon | Dionysus | Grishneshwar | Power | December | Projection |
+| Sphere of life | Potential | Element | Chackra | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Month | Alchemical stage |
+|-|-|-|-|-|-|-|-|-|-|-|
+| Image | Charm | Fire | Crown, Solar Plexus | Aries | Snake | Apollo | Somanatha | Fool | January | Calcination | 
+| Economy | Money | Earth | Root | Taurus | Pig | Demeter | Mallikarjuna | Mag | February | Solution |
+| Study | Awareness | Air | Crown, Throat | Gemini | Horse | Athena | Mahakaleshwara |  Priestess | March | Separation |
+| Family | Fervor | Water | Heart | Cancer | Dog | Hera | Omkareshwar | Empress | April | Conjunction |
+| Art | Creativity | Fire | Throat, Solar Plexus| Lion | Tiger | Appolo | Kedarnath | Emperor | May | Putrefaction |
+| Health | Vitality | Earth | Crown, Heart, Root | Virgin | Goat | Asclepius | Bhimashankar | Priest | June | Coagulation |
+| Love | Empathy | Air | Heart | Libra | Monkey | Aphrodite | Viswanath | Lovers | July | Civation |
+| Sex | Inspiration | Water | Root, Sacral | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | August | Sublimation |
+| Altruism | Selflessness | Fire | Crown, Heart, Solar Plexus | Sagittarius | Ox | Hercules | Vaidyanath | Justice | September | Fermentation |
+| Work | Productivity | Earth | Crown, Throat, Solar Plexus | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | October | Exaltation |
+| Friendship | Bond | Air | Heart | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | November | Animation |
+| Trans | Flexibility | Water | Crown, Root | Fish | Dragon | Dionysus | Grishneshwar | Power | December | Projection |
 
 The order of the spheres in the table is important because it represents the progression of personal development and growth. The spheres are arranged in a logical sequence, starting with the self (Image) and moving outward to the community (Friendship) and then to transformation (Trans). Each sphere builds on the previous one, as a person develops their sense of self, their relationships, and their ability to adapt and change.
 
@@ -220,7 +220,19 @@ In this sense, a person who has a balanced and healthy flow of energy between th
 
 On the other hand, a person who does not have a healthy flow of energy between the spheres may feel disconnected and unaligned, experiencing blockages in different areas of their life, leading them to feel unfulfilled and disconnected. Thus, having a healthy flow of energy between spheres is key to achieving balance and fulfillment in life.
 
+### Flow between shperes
+Here are a few examples of how energy flow between spheres of life could work based on the concepts presented in the Multi-dimensional Life Model:
+
+* In the sphere of Image, individuals focus on developing a positive self-image and personal charm. This can lead to an increase in self-confidence and self-esteem, which can then be channeled into the sphere of Work, leading to increased productivity and success in one's career.
+* In the sphere of Study, individuals focus on expanding their awareness and knowledge. This can lead to an increase in creativity, which can then be channeled into the sphere of Art, leading to the creation of more meaningful and impactful works of art.
+* In the sphere of Family, individuals focus on fostering strong relationships and a sense of community. This can lead to an increase in empathy and understanding, which can then be channeled into the sphere of Love, leading to deeper and more meaningful relationships.
+* In the sphere of Health, individuals focus on taking care of their physical and mental well-being. This can lead to an increase in vitality and inspiration, which can then be channeled into the sphere of Sex, leading to a more fulfilling and satisfying sexual life.
+* In the sphere of Altruism, individuals focus on selflessness and serving others. This can lead to an increase in personal growth and self-awareness, which can then be channeled into the sphere of Trans, leading to greater flexibility and adaptability in different aspects of life.
+
 ### Flow Patterns
+
+
+
 1. **Integration**: Integrating different aspects of the spheres of life to create a cohesive and harmonious whole. For example, incorporating physical activity and self-care practices into one's daily routine can help to enhance the flow of energy between the spheres of Health and Image.
 2. **Circulation**: Circulating energy between different spheres to create a balance and harmony. For example, regularly engaging in social activities and networking can help to enhance the flow of energy between the spheres of Friendship and Work.
 3. **Expansion**: Expanding energy from one sphere to another to create a sense of interconnectedness. For example, exploring new cultures and perspectives can help to enhance the flow of energy between the spheres of Study and Trans.
