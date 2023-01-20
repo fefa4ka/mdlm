@@ -23,6 +23,30 @@ The order of the spheres in the table is important because it represents the pro
 
 If the spheres were connected cyclically in a circle, it would imply that personal development and growth are a continuous process. It suggests that all spheres are interconnected and influencing each other, and that a person can return to any sphere at any time, to work on it and improve it. The cycle would also suggest that the end and the beginning are not distinct, and that the person's development is a never-ending process.
 
+* [Life Sphere Attributes](#life-sphere-attributes)
+  + [Sphere of Life](#sphere-of-life): [Image](#image), [Economy](#economy), [Study](#study), [Family](#family), [Art](#art), [Health](#health), [Love](#love), [Sex](#sex), [Altruism](#altruism), [Work](#work), [Friendship](#friendship), [Trans](#trans)
+  + [Potential](#potential): [Charm](#charm), [Money](#money), [Awareness](#awareness), [Fervor](#fervor), [Creativity](#creativity), [Vitality](#vitality), [Empathy](#empathy), [Inspiration](#inspiration), [Selflessness](#selflessness), [Productivity:](#productivity-), [Bond](#bond), [Flexibility](#flexibility)
+  + [Element](#element): [Fire](#fire), [Earth](#earth), [Air](#air), [Water](#water)
+  + [Zodiac Sign](#zodiac-sign)
+  + [Chinise zodiac](#chinise-zodiac)
+  + [Olympian gods](#olympian-gods)
+  + [Jyotirlinga](#jyotirlinga)
+  + [12 months of the year](#12-months-of-the-year)
+  + [12 Imams of the Shia Muslims](#12-imams-of-the-shia-muslims)
+  + [Arcane Tarot](#arcane-tarot)
+  + [Alchemical stage](#alchemical-stage)
+* [Field](#field): [Forces](#forces), [Particles](#particles), [Flow](#flow), [Patterns](#patterns), [Complex structures in Field](#complex-structures-in-field)
+* [Energy Flow](#energy-flow)
+  + [Flow between shperes](#flow-between-shperes)
+  + [Flow Patterns](#flow-patterns)
+* [Getting Started](#getting-started)
+* [Requirements for Life](#requirements-for-life)
+  + [Lack of Resources](#lack-of-resources)
+* [Contribution](#contribution)
+* [License](#license)
+* [Acknowledgments](#acknowledgments)
+
+
 ## Life Sphere Attributes
 ### Sphere of Life
 #### Image
