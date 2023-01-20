@@ -4,7 +4,7 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 **Note**: This is a symbolic and metaphorical system and the associations are not definitive. It's important to remember that these concepts are open to interpretation. This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
-| Sphere of life | Potential | Element | Zodiac Sign | Animal | Gods | Jyotirlinga | Arcane Tarot | Month | Alchemical stage |
+| Sphere of life | Potential | Element | Zodiac Sign | Chinese zodiac | Gods | Jyotirlinga | Arcane Tarot | Month | Alchemical stage |
 |-|-|-|-|-|-|-|-|-|-|
 | Image | Charm | Fire | Aries | Snake | Apollo | Somanatha | Fool | January | Calcination | 
 | Economy | Money | Earth | Taurus | Pig | Demeter | Mallikarjuna | Mag | February | Solution |
