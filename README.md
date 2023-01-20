@@ -40,7 +40,7 @@ Represents the ability to create and maintain a strong and supportive family uni
 #### Art
 Represents the ability to create and express oneself through art and the process of breakdown and reconstruction. The potential of "Creativity" represents the ability to create and express oneself through art, while the element of "Fire" represents passion and self-expression. The Zodiac sign of "Leo" represents creativity and self-expression, the Chinese zodiac sign of "Tiger" represents creativity and power. The Olympian god of "Apollo" represents creativity and beauty, the Jyotirlinga of "Kedarnath" represents self-expression and creativity. The Arcane Tarot of "Emperor" represents the power of creativity and self-expression, the Month of "May" represents the flowering of creative expression, the Alchemical stage of "Putrefaction" represents the breakdown of old ways of thinking and the reconstruction of new creative possibilities.
 
-### Health
+#### Health
 Focus on vitality and well-being. The potential of "Vitality" represents the energy and strength of the body and mind. The element of "Earth" represents stability and grounding. The Zodiac sign of "Virgo" represents health and well-being, the Chinese zodiac sign of "Goat" represents health and balance, the Olympian god of "Asclepius" represents healing and health, the Jyotirlinga of "Bhimashankar" represents health and well-being, the Arcane Tarot of "Priest" represents healing and spiritual well-being, the Month of "June" represents the peak of vitality and energy, the Alchemical stage of "Coagulation" represents the solidification and stabilization of the body and mind.
 
 #### Love
