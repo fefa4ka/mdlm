@@ -16,7 +16,7 @@ This framework provides a holistic and multi-dimensional perspective on differen
 | Sex | Inspiration | Water | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | August | Sublimation |
 | Altruism | Selflessness | Fire | Sagittarius | Ox | Hercules | Vaidyanath | Justice | September | Fermentation |
 | Work | Productivity | Earth | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | October | Exaltation |
-| Friendship | Connection | Air | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | November | Animation |
+| Friendship | Bond | Air | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | November | Animation |
 | Trans | Flexibility | Water | Fish | Dragon | Dionysus | Grishneshwar | Power | December | Projection |
 
 The order of the spheres in the table is important because it represents the progression of personal development and growth. The spheres are arranged in a logical sequence, starting with the self (Image) and moving outward to the community (Friendship) and then to transformation (Trans). Each sphere builds on the previous one, as a person develops their sense of self, their relationships, and their ability to adapt and change.
@@ -54,7 +54,7 @@ Focus on selflessness and service. The potential of "Selflessness" represents th
 #### Work
 Focus on productivity and achievement. The potential of "Productivity" represents the ability to be efficient and to produce results. The element of "Earth" represents stability and grounding. The Zodiac sign of "Capricorn" represents hard work and ambition, the Chinese zodiac sign of "Rat" represents hard work and intelligence, the Olympian god of "Hephaestus" represents hard work and craftsmanship, the Jyotirlinga of "Nageshvara" represents hard work and productivity, the Arcane Tarot of "Hermit" represents wisdom and hard work, the Month of "October" represents the peak of productivity and achievement, the Alchemical stage of "Exaltation" represents the elevation and improvement of productivity and achievement.
 #### Friendship
-Focus on connection and bonding. The potential of "Connection" represents the ability to connect and interact with others. The element of "Air" represents communication and connection. The Zodiac sign of "Aquarius" represents friendship and community, the Chinese zodiac sign of "Rabbit" represents diplomacy and friendliness, the Olympian god of "Hermes" represents friendship and communication, the Jyotirlinga of "Rameshwar" represents friendship and devotion, the Arcane Tarot of "Wheel of Fortune" represents good luck and friendship, the Month of "November" represents the peak of friendship and bonding, the Alchemical stage of "Animation" represents the animation and vitality of friendship and connection.
+Focus on connection and bonding. The potential of "Bond" represents it represents the emotional and psychological connection between individuals. The element of "Air" represents communication and connection. The Zodiac sign of "Aquarius" represents friendship and community, the Chinese zodiac sign of "Rabbit" represents diplomacy and friendliness, the Olympian god of "Hermes" represents friendship and communication, the Jyotirlinga of "Rameshwar" represents friendship and devotion, the Arcane Tarot of "Wheel of Fortune" represents good luck and friendship, the Month of "November" represents the peak of friendship and bonding, the Alchemical stage of "Animation" represents the animation and vitality of friendship and connection.
 #### Trans
 Focus on flexibility and change. The potential of "Flexibility" represents the ability to adapt and change. The element of "Water" represents fluidity and changeability. The Zodiac sign of "Pisces" represents change and adaptability, the Chinese zodiac sign of "Dragon" represents change and power, the Olympian god of "Dionysus" represents change and rebirth, the Jyotirlinga of "Grishneshwar" represents change and devotion, the Arcane Tarot of "Power" represents change and potential, the Month of "December" represents the peak of change and renewal, the Alchemical stage of "Projection" represents the projection and manifestation of change and transformation.
 
@@ -62,6 +62,41 @@ Focus on flexibility and change. The potential of "Flexibility" represents the a
 The “potential” column of this table is intended to capture the most essential element that is associated with each sphere of life. It is meant to represent the core value or quality that is most essential to developing a strong, healthy, and balanced life. For example, in the sphere of “Image”, the potential is “Charm” which is the ability to attract and influence others with your presence and charisma. In the sphere of “Economy”, the potential is “Money”, which is the ability to generate and manage wealth. 
 
 Potential for areas of life can be seen as an energy that can be used to create and manifest your desired outcomes. It is important to remember that these potentials are not meant to be end goals, but rather tools to help you achieve your goals. 
+
+#### Charm
+The ability to project a positive image and make a good first impression. In the Image sphere, Charm is essential for creating a strong personal brand and attracting attention. It also plays a role in the Love sphere, as charm and charisma can be attractive qualities in a romantic partner. In the Art sphere, charm can be used to promote and market artwork.
+
+#### Money
+The ability to manage resources and make financial decisions. In the Economy sphere, Money is essential for creating financial stability and achieving financial goals. It also plays a role in the Work sphere, as having financial stability can be a motivator to work and increase productivity.
+
+#### Awareness
+The ability to be mindful and attentive to the present moment. In the Study sphere, Awareness is essential for effective learning and retaining information. It also plays a role in the Love sphere, as being aware of a partner's needs and feelings can lead to a stronger relationship. In the Friendship sphere, awareness can help in maintaining healthy relationships.
+
+#### Fervor
+Fervor represents the ability to be passionate and emotionally invested in one's family. In the Family sphere, Fervor is essential for creating strong bonds and a sense of belonging. It also plays a role in the Trans sphere, as being emotionally invested in the process of change can lead to a successful transformation.
+
+#### Creativity
+The ability to think outside the box and come up with new and innovative ideas. In the Art sphere, Creativity is essential for creating art and expressing oneself. It also plays a role in the Work sphere, as being creative can lead to finding new and innovative solutions to problems.
+
+#### Vitality
+The ability to maintain good physical and mental health. In the Health sphere, Vitality is essential for maintaining a healthy lifestyle and preventing illness. It also plays a role in the Work sphere, as having good physical and mental health can lead to increased productivity.
+
+#### Empathy
+Empathy represents the ability to understand and share the feelings of others. In the Love sphere, Empathy is essential for creating a deep understanding and connection with a romantic partner. It also plays a role in the Altruism sphere, as being empathetic can lead to helping others in a more effective way.
+
+#### Inspiration
+The ability to be motivated and driven by new and exciting ideas. In the Sex sphere, Inspiration is essential for maintaining a healthy and fulfilling sexual relationship. It also plays a role in the Art sphere, as being inspired can lead to creating new and innovative art.
+
+#### Selflessness
+The ability to put the needs of others before one's own. In the Altruism sphere, Selflessness is essential for helping others and making a positive impact on the world. It also plays a role in the Friendship sphere, as being selfless can lead to stronger and more fulfilling relationships.
+
+#### Productivity:
+The ability to efficiently and effectively complete tasks. In the Work sphere, Productivity is essential for achieving goals and reaching success. It also plays a role in the Economy sphere, as being productive can lead to financial stability.
+
+Connection: In the context of the spheres of life, Connection represents the ability to form and
+
+#### Bond
+The concept of a bond implies a sense of closeness and shared experience among friends, which is often achieved through interactions and activities that strengthen the friendship. It also implies a sense of commitment and mutual support, which are important elements of any strong friendship. 
 
 ### Element 
 The element column of this table is intended to capture the type of energy that is associated with each sphere of life. It is meant to represent the fundamental force that drives the potential associated with each sphere. 
