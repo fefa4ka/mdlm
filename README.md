@@ -93,10 +93,11 @@ The ability to put the needs of others before one's own. In the Altruism sphere,
 #### Productivity:
 The ability to efficiently and effectively complete tasks. In the Work sphere, Productivity is essential for achieving goals and reaching success. It also plays a role in the Economy sphere, as being productive can lead to financial stability.
 
-Connection: In the context of the spheres of life, Connection represents the ability to form and
-
 #### Bond
 The concept of a bond implies a sense of closeness and shared experience among friends, which is often achieved through interactions and activities that strengthen the friendship. It also implies a sense of commitment and mutual support, which are important elements of any strong friendship. 
+
+#### Flexibility
+Is the energy that allows an individual to navigate and adapt to changes and challenges that arise in the process of personal growth and development. It enables an individual to be open-minded and to see the opportunities in change, rather than focusing on the difficulties.
 
 ### Element 
 The element column of this table is intended to capture the type of energy that is associated with each sphere of life. It is meant to represent the fundamental force that drives the potential associated with each sphere. 
