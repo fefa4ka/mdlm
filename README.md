@@ -6,18 +6,18 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 | Sphere of life | Potential | Element | Chackra | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Deadly Sins | Twelve Offenses | Month | Alchemical stage |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Image | Charm | Fire | Crown, Solar Plexus | Aries | Snake | Apollo | Somanatha | Fool | Pride | Holding wrong views | January | Calcination | 
+| Image | Charm | Fire | Crown, Solar Plexus | Aries | Snake | Apollo | Somanatha | Fool | Pride | Wrong views | January | Calcination | 
 | Economy | Money | Earth | Root | Taurus | Pig | Demeter | Mallikarjuna | Mag | Greed | Stealing| February | Solution |
-| Study | Awareness | Air | Crown, Throat | Gemini | Horse | Athena | Mahakaleshwara | Priestess | Sloth | Holding wrong | March | Separation |
+| Study | Awareness | Air | Crown, Throat | Gemini | Horse | Athena | Mahakaleshwara | Priestess | Sloth | Wrong views | March | Separation |
 | Family | Fervor | Water | Heart | Cancer | Dog | Hera | Omkareshwar | Empress | Anger | Harsh speech | April | Conjunction |
-| Art | Creativity | Fire | Throat, Solar Plexus| Lion | Tiger | Appolo | Kedarnath | Emperor | Envy | Holding wrong views | May | Putrefaction |
+| Art | Creativity | Fire | Throat, Solar Plexus| Lion | Tiger | Appolo | Kedarnath | Emperor | Envy | Wrong views | May | Putrefaction |
 | Health | Vitality | Earth | Crown, Heart, Root | Virgin | Goat | Asclepius | Bhimashankar | Priest | Gluttony | Abusing drugs or alcohol | June | Coagulation |
 | Love | Empathy | Air | Heart | Libra | Monkey | Aphrodite | Viswanath | Lovers | Lust | Sexual misconduct | July | Civation |
 | Sex | Inspiration | Water | Root, Sacral | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | Lust | Sexual misconduct | August | Sublimation |
 | Altruism | Selflessness | Fire | Crown, Heart, Solar Plexus | Sagittarius | Ox | Hercules | Vaidyanath | Justice | Pride | Killing | September | Fermentation |
 | Work | Productivity | Earth | Crown, Throat, Solar Plexus | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | Sloth | Idle | October | Exaltation |
 | Friendship | Bond | Air | Heart | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | Envy | Slander | November | Animation |
-| Trans | Flexibility | Water | Crown, Root | Fish | Dragon | Dionysus | Grishneshwar | Power | Pride | Holding wrong views | December | Projection |
+| Trans | Flexibility | Water | Crown, Root | Fish | Dragon | Dionysus | Grishneshwar | Power | Pride | Wrong views | December | Projection |
 
 The order of the spheres in the table is important because it represents the progression of personal development and growth. The spheres are arranged in a logical sequence, starting with the self (Image) and moving outward to the community (Friendship) and then to transformation (Trans). Each sphere builds on the previous one, as a person develops their sense of self, their relationships, and their ability to adapt and change.
 
