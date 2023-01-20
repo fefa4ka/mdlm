@@ -4,20 +4,20 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 **Note**: This is a symbolic and metaphorical system and the associations are not definitive. It's important to remember that these concepts are open to interpretation. This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
-| Sphere of life | Potential | Element | Chackra | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Twelve Offenses | Month | Alchemical stage |
-|-|-|-|-|-|-|-|-|-|-|-|-|
-| Image | Charm | Fire | Crown, Solar Plexus | Aries | Snake | Apollo | Somanatha | Fool | Holding wrong views | January | Calcination | 
-| Economy | Money | Earth | Root | Taurus | Pig | Demeter | Mallikarjuna | Mag | Stealing | February | Solution |
-| Study | Awareness | Air | Crown, Throat | Gemini | Horse | Athena | Mahakaleshwara |  Priestess | Holding wrong | March | Separation |
-| Family | Fervor | Water | Heart | Cancer | Dog | Hera | Omkareshwar | Empress | Harsh speech | April | Conjunction |
-| Art | Creativity | Fire | Throat, Solar Plexus| Lion | Tiger | Appolo | Kedarnath | Emperor | Holding wrong views | May | Putrefaction |
-| Health | Vitality | Earth | Crown, Heart, Root | Virgin | Goat | Asclepius | Bhimashankar | Priest | Abusing drugs or alcohol | June | Coagulation |
-| Love | Empathy | Air | Heart | Libra | Monkey | Aphrodite | Viswanath | Lovers | Sexual misconduct | July | Civation |
-| Sex | Inspiration | Water | Root, Sacral | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | Sexual misconduct | August | Sublimation |
-| Altruism | Selflessness | Fire | Crown, Heart, Solar Plexus | Sagittarius | Ox | Hercules | Vaidyanath | Justice | Killing | September | Fermentation |
-| Work | Productivity | Earth | Crown, Throat, Solar Plexus | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | Idle | October | Exaltation |
-| Friendship | Bond | Air | Heart | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | Slander | November | Animation |
-| Trans | Flexibility | Water | Crown, Root | Fish | Dragon | Dionysus | Grishneshwar | Power | Holding wrong views | December | Projection |
+| Sphere of life | Potential | Element | Chackra | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Deadly Sins | Twelve Offenses | Month | Alchemical stage |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| Image | Charm | Fire | Crown, Solar Plexus | Aries | Snake | Apollo | Somanatha | Fool | Pride | Holding wrong views | January | Calcination | 
+| Economy | Money | Earth | Root | Taurus | Pig | Demeter | Mallikarjuna | Mag | Greed | Stealing| February | Solution |
+| Study | Awareness | Air | Crown, Throat | Gemini | Horse | Athena | Mahakaleshwara | Priestess | Sloth | Holding wrong | March | Separation |
+| Family | Fervor | Water | Heart | Cancer | Dog | Hera | Omkareshwar | Empress | Anger | Harsh speech | April | Conjunction |
+| Art | Creativity | Fire | Throat, Solar Plexus| Lion | Tiger | Appolo | Kedarnath | Emperor | Envy | Holding wrong views | May | Putrefaction |
+| Health | Vitality | Earth | Crown, Heart, Root | Virgin | Goat | Asclepius | Bhimashankar | Priest | Gluttony | Abusing drugs or alcohol | June | Coagulation |
+| Love | Empathy | Air | Heart | Libra | Monkey | Aphrodite | Viswanath | Lovers | Lust | Sexual misconduct | July | Civation |
+| Sex | Inspiration | Water | Root, Sacral | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | Lust | Sexual misconduct | August | Sublimation |
+| Altruism | Selflessness | Fire | Crown, Heart, Solar Plexus | Sagittarius | Ox | Hercules | Vaidyanath | Justice | Pride | Killing | September | Fermentation |
+| Work | Productivity | Earth | Crown, Throat, Solar Plexus | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | Sloth | Idle | October | Exaltation |
+| Friendship | Bond | Air | Heart | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | Envy | Slander | November | Animation |
+| Trans | Flexibility | Water | Crown, Root | Fish | Dragon | Dionysus | Grishneshwar | Power | Pride | Holding wrong views | December | Projection |
 
 The order of the spheres in the table is important because it represents the progression of personal development and growth. The spheres are arranged in a logical sequence, starting with the self (Image) and moving outward to the community (Friendship) and then to transformation (Trans). Each sphere builds on the previous one, as a person develops their sense of self, their relationships, and their ability to adapt and change.
 
