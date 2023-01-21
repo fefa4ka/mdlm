@@ -250,6 +250,12 @@ These forces act upon the field of life in order to create a dynamic and ever-ch
 ### Particles 
 In addition to the forces, there are also particles that exist in the field of life. These particles are made up of energy. These particles interact with the forces to create a unique and ever-changing environment. 
 
+In the context of field theory, objects in the field may have polarities, valences, or charges that influence their interactions with other objects in the field.
+
+* **Polarity** refers to the positive or negative nature of an object in the field, which can influence its interactions with other objects in the field. For example, a positive self-image can attract positive opportunities and interactions, while a negative self-image can repel them.
+* **Valence** refers to the degree of attraction or repulsion that an object in the field has for other objects in the field. For example, an individual with a strong and positive self-image may have a high valence for positive social interactions, while an individual with a negative self-image may have a low valence for these interactions.
+* **Charge** refers to the amount of energy that an object in the field has, which can influence its interactions with other objects in the field. For example, an individual with a positive self-image may have a high charge of energy and motivation, which can attract positive opportunities, while an individual with a negative self-image may have a low charge of energy and motivation, which can repel these opportunities.
+
 ### Flow 
 The flow of the field of life is the combination of the attraction, repulsion, balance and transformation forces. 
 
