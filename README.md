@@ -329,9 +329,6 @@ In this framework, each sphere of life can be associated with specific field ent
 * **Trans**: ability to transcend the self, to connect with something greater than themselves, and to adapt and evolve over time.
 
 
-## Energy Flow
-.
-
 ## Getting Started
 
 The framework is divided into different spheres of life, each representing a different area of human experience. Remember that each sphere is just one aspect of yourself, and it's important to have a balance of all spheres of life.
