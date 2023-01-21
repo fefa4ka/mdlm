@@ -8,20 +8,20 @@ It's important to remember that these concepts are open to interpretation and on
 
 This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
-| Sphere of life | Potential | Element | Wave | Chackra | Spiritual Laws | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Deadly Sins | Brahmajāla Sūtra | Month | Alchemical stage |
-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
-| **[Image](#image)** | [Charm](#charm) | [Fire](#fire) | Simple | Crown, Solar Plexus | Pure Potentiality | Aries | Snake | Apollo | Somanatha | Fool | Pride | Wrong views | January | Calcination | 
-| **[Economy](#economy)** | [Money](#money) | [Earth](#earth) | Aperiodic | Root | Giving | Taurus | Pig | Demeter | Mallikarjuna | Mag | Greed | Stealing| February | Solution |
-| **[Study](#study)** | [Awareness](#awareness) | [Air](#air) | Progressive | Crown, Throat | Karma | Gemini | Horse | Athena | Mahakaleshwara | Priestess | Sloth | Wrong views | March | Separation |
-| **[Family](#family)** | [Fervor](#fervor) | [Water](#water) | Stationary | Heart | Least Effort | Cancer | Dog | Hera | Omkareshwar | Empress | Anger | Harsh speech | April | Conjunction |
-| **[Art](#art)** | [Creativity](#creativity) | [Fire](#fire) | Complex | Throat, Solar Plexus | Intention | Lion | Tiger | Appolo | Kedarnath | Emperor | Envy | Wrong views | May | Putrefaction |
-| **[Health](#health)** | [Vitality](#vitality) | [Earth](#earth) | Harmonic | Crown, Heart, Root | Least Effort | Virgin | Goat | Asclepius | Bhimashankar | Priest | Gluttony | Abusing drugs or alcohol | June | Coagulation |
-| **[Love](#love)** | [Empathy](#empathy) | [Air](#air) | Mechanical | Heart | Dharma | Libra | Monkey | Aphrodite | Viswanath | Lovers | Lust | Sexual misconduct | July | Civation |
-| **[Sex](#sex)** | [Inspiration](#inspiration) | [Water](#water) | Transverse | Root, Sacral | Detachment | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | Lust | Sexual misconduct | August | Sublimation |
-| **[Altruism](#altruism)** | [Selflessness](#selflessness) | [Fire](#fire) | Electromagnetic | Crown, Heart, Solar Plexus | Giving | Sagittarius | Ox | Hercules | Vaidyanath | Justice | Pride | Killing | September | Fermentation |
-| **[Work](#work)** | [Productivity](#productivity) | [Earth](#earth) | Longitudinal | Crown, Throat, Solar Plexus | Intention and Desire | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | Sloth | Idle | October | Exaltation |
-| **[Friendship](#friendship)** | [Bond](#bond) | [Air](#air) | Progressive | Heart | Dharma | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | Envy | Slander | November | Animation |
-| **[Trans](#trans)** | [Flexibility](#flexibility) | [Water](#water) | Periodic | Crown, Root | Detachment | Fish | Dragon | Dionysus | Grishneshwar | Power | Pride | Wrong views | December | Projection |
+| Sphere of life | Potential | Element | Wave | Chackra | Spiritual Laws | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Deadly Sins | Brahmajāla Sūtra | Month | Alchemical stage | Math Concept | Physics Concept | Programming Concept |
+|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|-|
+| **[Image](#image)** | [Charm](#charm) | [Fire](#fire) | Simple | Crown, Solar Plexus | Pure Potentiality | Aries | Snake | Apollo | Somanatha | Fool | Pride | Wrong views | January | Calcination | Geometry | Thermochemistry | Model-View-Controller |
+| **[Economy](#economy)** | [Money](#money) | [Earth](#earth) | Aperiodic | Root | Giving | Taurus | Pig | Demeter | Mallikarjuna | Mag | Greed | Stealing| February | Solution | Game theory | Conservation of Energy | Black-Scholes |
+| **[Study](#study)** | [Awareness](#awareness) | [Air](#air) | Progressive | Crown, Throat | Karma | Gemini | Horse | Athena | Mahakaleshwara | Priestess | Sloth | Wrong views | March | Separation | Information theory | Kinetics | Machine Learning |
+| **[Family](#family)** | [Fervor](#fervor) | [Water](#water) | Stationary | Heart | Least Effort | Cancer | Dog | Hera | Omkareshwar | Empress | Anger | Harsh speech | April | Conjunction | Combinatorics | Thermodynamics | Concurrency pattern |
+| **[Art](#art)** | [Creativity](#creativity) | [Fire](#fire) | Complex | Throat, Solar Plexus | Intention | Lion | Tiger | Appolo | Kedarnath | Emperor | Envy | Wrong views | May | Putrefaction | Topology | Optics | Generative algorithm |
+| **[Health](#health)** | [Vitality](#vitality) | [Earth](#earth) | Harmonic | Crown, Heart, Root | Least Effort | Virgin | Goat | Asclepius | Bhimashankar | Priest | Gluttony | Abusing drugs or alcohol | June | Coagulation | Differential equations | Mechanics | Simulation algorithm |
+| **[Love](#love)** | [Empathy](#empathy) | [Air](#air) | Mechanical | Heart | Dharma | Libra | Monkey | Aphrodite | Viswanath | Lovers | Lust | Sexual misconduct | July | Civation | Graph | Electromagnetism | Recommender system |
+| **[Sex](#sex)** | [Inspiration](#inspiration) | [Water](#water) | Transverse | Root, Sacral | Detachment | Scorpio | Rooster | Dionysus | Tryambakeshwar | Chariot | Lust | Sexual misconduct | August | Sublimation | Probability | Quantum mechanics | Simulation algorithm |
+| **[Altruism](#altruism)** | [Selflessness](#selflessness) | [Fire](#fire) | Electromagnetic | Crown, Heart, Solar Plexus | Giving | Sagittarius | Ox | Hercules | Vaidyanath | Justice | Pride | Killing | September | Fermentation | Game theory | Thermodynamics | Routing algorithm |
+| **[Work](#work)** | [Productivity](#productivity) | [Earth](#earth) | Longitudinal | Crown, Throat, Solar Plexus | Intention and Desire | Capricorn | Rat | Hephaestus | Nageshvara | Hermit | Sloth | Idle | October | Exaltation | Operations research | Kinetics | Scheduling algorithm |
+| **[Friendship](#friendship)** | [Bond](#bond) | [Air](#air) | Progressive | Heart | Dharma | Aquarius | Rabbit | Hermes | Rameshwar | Wheel of Fortune | Envy | Slander | November | Animation | Social network analysis | Electromagnetism | SNA algorithm |
+| **[Trans](#trans)** | [Flexibility](#flexibility) | [Water](#water) | Periodic | Crown, Root | Detachment | Fish | Dragon | Dionysus | Grishneshwar | Power | Pride | Wrong views | December | Projection | Dynamical systems | Quantum mechanics | Search algorithm |
 
 The order of the spheres in the table is important because it represents the progression of personal development and growth. The spheres are arranged in a logical sequence, starting with the self (Image) and moving outward to the community (Friendship) and then to transformation (Trans). Each sphere builds on the previous one, as a person develops their sense of self, their relationships, and their ability to adapt and change.
 
