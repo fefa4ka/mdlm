@@ -39,7 +39,7 @@ If the spheres were connected cyclically in a circle, it would imply that person
   + [12 Imams of the Shia Muslims](#12-imams-of-the-shia-muslims)
   + [Arcane Tarot](#arcane-tarot)
   + [Alchemical stage](#alchemical-stage)
-* [Field](#field): [Forces](#forces), [Particles](#particles), [Interaction](#interaction), [Flow](#flow), [Complex structures in Field](#complex-structures-in-field)
+* [Field](#field): [Forces](#forces), [Particles](#particles), [Dynamics](#dynamics), [Complex structures in Field](#complex-structures-in-field)
 * [Getting Started](#getting-started)
 * [Requirements for Life](#requirements-for-life)
   + [Lack of Resources](#lack-of-resources)
@@ -256,6 +256,13 @@ In the context of field theory, objects in the field may have polarities, valenc
 ### Topology
 The shape and structure of the field, which can influence the interactions of objects within the field. For example, an individual with a positive self-image may experience a field with a certain topology, such as a spiral or torus, which can influence their interactions with other objects in the field, such as opportunities, resources, and relationships.
 
+### Properties of the Field
+* **Gradient**: The degree of variation in the field
+* **Intensity**: The degree of energy or strength of the field
+* **Symmetry**: The degree of balance or symmetry within the field
+* **Stability**: The degree of stability or consistency within the field
+* **Coherence**: The degree of alignment and consistency within the field
+* **Entropy**: The degree of disorder or randomness within the field
 
 ### Dynamics
 The movement and change of the field over time, which can influence the interactions of objects within the field. For example, an individual with a positive self-image may experience a field with certain dynamics, such as oscillations or chaos, which can influence their interactions with other objects in the field, such as opportunities, resources, and relationships.
@@ -270,15 +277,8 @@ Other concepts that can be used to understand the interactions and influences of
 
 These concepts can be used in combination with the polarities, valences, and charges to help understand and explain the interactions and influences of objects in the field. It's worth noting that these concepts are not mutually exclusive and can be used together to understand the complex dynamics of the field.
 
-### Field Properties
-* **Gradient**: The degree of variation in the field
-* **Intensity**: The degree of energy or strength of the field
-* **Symmetry**: The degree of balance or symmetry within the field
-* **Stability**: The degree of stability or consistency within the field
-* **Coherence**: The degree of alignment and consistency within the field
-* **Entropy**: The degree of disorder or randomness within the field
 
-### Flow 
+#### Flow 
 Kurt Lewin's Change Model provides a useful framework for understanding the flow of energy in each sphere of life. According to this model, the flow of energy is cyclical in nature and involves four stages: Unfreezing, Changing, Refreezing, and Sustaining. 
 
 In the Unfreezing stage, one must let go of old habits and beliefs in order to make room for new ones. In the Changing stage, one must take action in order to move towards desired goals. In the Refreezing stage, one must solidify the changes that have been made and ensure that they will be sustained. Finally, in the Sustaining stage, one must continue to take action in order to maintain the desired changes. By understanding this cyclical flow of energy, one can gain a deeper understanding of how to effectively work within each sphere of life in order to achieve one's desired outcomes.
