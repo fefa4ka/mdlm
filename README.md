@@ -241,10 +241,6 @@ There are also two forces that act upon the field of life. These forces are:
 1. Attraction – This is the force that draws us towards certain goals, people, and experiences. 
 2. Repulsion – This is the force that pushes us away from certain goals, people, and experiences. 
 
-In context of forces exists:
-1. Balance – This is the combination of forces that helps us to maintain equilibrium in our lives. 
-2. Transformation – This is the combination of forces that helps us to evolve and grow. 
-
 These forces act upon the field of life in order to create a dynamic and ever-changing environment. 
 
 ### Particles 
@@ -255,6 +251,16 @@ In the context of field theory, objects in the field may have polarities, valenc
 * **Polarity** refers to the positive or negative nature of an object in the field, which can influence its interactions with other objects in the field. For example, a positive self-image can attract positive opportunities and interactions, while a negative self-image can repel them.
 * **Valence** refers to the degree of attraction or repulsion that an object in the field has for other objects in the field. For example, an individual with a strong and positive self-image may have a high valence for positive social interactions, while an individual with a negative self-image may have a low valence for these interactions.
 * **Charge** refers to the amount of energy that an object in the field has, which can influence its interactions with other objects in the field. For example, an individual with a positive self-image may have a high charge of energy and motivation, which can attract positive opportunities, while an individual with a negative self-image may have a low charge of energy and motivation, which can repel these opportunities.
+
+### Interaction
+Other concepts that can be used to understand the interactions and influences of objects in the field include:
+
+* **Resonance**: The degree of similarity or compatibility between two objects in the field, which can influence their interactions. For example, an individual with a positive self-image may resonate with positive and supportive individuals, while an individual with a negative self-image may resonate with negative and critical individuals.
+* **Synergy**: The combined effect of two or more objects in the field that is greater than the sum of their individual effects. For example, an individual with a positive self-image, a strong support system, and effective coping mechanisms may experience a synergistic effect that positively influences their overall well-being.
+* **Entanglement**: The degree of interconnectedness between two or more objects in the field, which can influence their interactions. For example, an individual's self-image can be entangled with their relationships, financial situation, and career, which can influence how they perceive and interact with these areas of their life.
+* **Coherence**: The degree of alignment and consistency between different aspects of an object in the field, which can influence its interactions. For example, an individual with a positive self-image and a coherent set of values, beliefs, and goals may have a higher degree of well-being and resilience than an individual with a positive self-image but a lack of coherence in these areas.
+
+These concepts can be used in combination with the polarities, valences, and charges to help understand and explain the interactions and influences of objects in the field. It's worth noting that these concepts are not mutually exclusive and can be used together to understand the complex dynamics of the field.
 
 ### Flow 
 The flow of the field of life is the combination of the attraction, repulsion, balance and transformation forces. 
