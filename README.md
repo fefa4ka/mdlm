@@ -263,10 +263,37 @@ Other concepts that can be used to understand the interactions and influences of
 These concepts can be used in combination with the polarities, valences, and charges to help understand and explain the interactions and influences of objects in the field. It's worth noting that these concepts are not mutually exclusive and can be used together to understand the complex dynamics of the field.
 
 ### Flow 
-The flow of the field of life is the combination of the attraction, repulsion, balance and transformation forces. 
+Kurt Lewin's Change Model provides a useful framework for understanding the flow of energy in each sphere of life. According to this model, the flow of energy is cyclical in nature and involves four stages: Unfreezing, Changing, Refreezing, and Sustaining. 
 
-### Patterns 
-The patterns of the field of life are the combination of the particles and fields that make up the field. 
+In the Unfreezing stage, one must let go of old habits and beliefs in order to make room for new ones. In the Changing stage, one must take action in order to move towards desired goals. In the Refreezing stage, one must solidify the changes that have been made and ensure that they will be sustained. Finally, in the Sustaining stage, one must continue to take action in order to maintain the desired changes. By understanding this cyclical flow of energy, one can gain a deeper understanding of how to effectively work within each sphere of life in order to achieve one's desired outcomes.
+
+The concept of flow in the context of spheres of life can also refer to the idea of a smooth, natural and effortless movement of energy between the different spheres. This can be compared to the flow of a river, where the water moves seamlessly and naturally between different areas, providing nourishment and growth along the way.
+
+In this sense, a person who has a balanced and healthy flow of energy between the different spheres of life, can feel fulfilled, energized and aligned in different aspects of their life. They can move through different spheres with ease, without feeling stuck or blocked in any particular area. This flow of energy can be multidimensional, meaning that it can involve different layers of emotions, thoughts and physical sensations that allow the person to feel grounded, balanced and harmonious.
+
+On the other hand, a person who does not have a healthy flow of energy between the spheres may feel disconnected and unaligned, experiencing blockages in different areas of their life, leading them to feel unfulfilled and disconnected. Thus, having a healthy flow of energy between spheres is key to achieving balance and fulfillment in life.
+
+#### Flow between shperes
+Here are a few examples of how energy flow between spheres of life could work based on the concepts presented in the Multi-dimensional Life Model:
+
+* In the sphere of Image, individuals focus on developing a positive self-image and personal charm. This can lead to an increase in self-confidence and self-esteem, which can then be channeled into the sphere of Work, leading to increased productivity and success in one's career.
+* In the sphere of Study, individuals focus on expanding their awareness and knowledge. This can lead to an increase in creativity, which can then be channeled into the sphere of Art, leading to the creation of more meaningful and impactful works of art.
+* In the sphere of Family, individuals focus on fostering strong relationships and a sense of community. This can lead to an increase in empathy and understanding, which can then be channeled into the sphere of Love, leading to deeper and more meaningful relationships.
+* In the sphere of Health, individuals focus on taking care of their physical and mental well-being. This can lead to an increase in vitality and inspiration, which can then be channeled into the sphere of Sex, leading to a more fulfilling and satisfying sexual life.
+* In the sphere of Altruism, individuals focus on selflessness and serving others. This can lead to an increase in personal growth and self-awareness, which can then be channeled into the sphere of Trans, leading to greater flexibility and adaptability in different aspects of life.
+
+#### Flow Patterns
+1. **Integration**: Integrating different aspects of the spheres of life to create a cohesive and harmonious whole. For example, incorporating physical activity and self-care practices into one's daily routine can help to enhance the flow of energy between the spheres of Health and Image.
+2. **Circulation**: Circulating energy between different spheres to create a balance and harmony. For example, regularly engaging in social activities and networking can help to enhance the flow of energy between the spheres of Friendship and Work.
+3. **Expansion**: Expanding energy from one sphere to another to create a sense of interconnectedness. For example, exploring new cultures and perspectives can help to enhance the flow of energy between the spheres of Study and Trans.
+4. **Reflection**: This flow pattern involves reflecting on the energy in one sphere to understand how it relates to other spheres. For example, reflecting on one's personal values and beliefs can help to enhance the flow of energy between the spheres of Altruism and Image.
+5. **Empowerment**: This flow pattern involves empowering oneself with the energy from one sphere to enhance the energy in another. For example, empowering oneself with financial stability can help to enhance the flow of energy between the spheres of Economy and Image.
+7. **Release**: This flow pattern involves releasing any blockages or tension in one sphere to enhance the flow of energy in another. For example, releasing stress and tension from work can help to enhance the flow of energy between the spheres of Work and Health.
+8. **Amplification**: This flow pattern involves amplifying energy from one sphere to enhance the energy in another. For example, amplifying creativity and self-expression in the sphere of Art can help to enhance the flow of energy between the spheres of Art and Image.
+9. **Harmonization**: This flow pattern involves harmonizing energy from one sphere with energy from another to create a sense of balance and harmony. For example, harmonizing personal values and beliefs with professional goals can help to enhance the flow of energy between the spheres of Altruism and Work.
+10. **Synchronicity**: This flow pattern involves a sense of synchronicity and interconnectedness between different spheres. For example, feeling a sense of synchronicity between personal growth and career development can help to enhance the flow of energy between the spheres of Trans and Work.
+11. **Amplification**: This flow pattern involves amplifying energy from one sphere to enhance the energy in another. For example, amplifying one's altruistic actions can help to enhance the flow of energy between the spheres of Altruism and Health.
+12. **Regeneration**: This flow pattern involves regenerating energy from one sphere to enhance the energy in another. For example, regenerating energy from sexual experiences can help to enhance the flow of energy between the spheres of Sex and Love
 
 ### Complex structures in Field 
 The field of life is a complex system that is constantly in motion and is constantly changing. However, within this system there are some patterns that remain consistent.
@@ -287,40 +314,7 @@ In this framework, each sphere of life can be associated with specific field ent
 
 
 ## Energy Flow
-Kurt Lewin's Change Model provides a useful framework for understanding the flow of energy in each sphere of life. According to this model, the flow of energy is cyclical in nature and involves four stages: Unfreezing, Changing, Refreezing, and Sustaining. 
-
-In the Unfreezing stage, one must let go of old habits and beliefs in order to make room for new ones. In the Changing stage, one must take action in order to move towards desired goals. In the Refreezing stage, one must solidify the changes that have been made and ensure that they will be sustained. Finally, in the Sustaining stage, one must continue to take action in order to maintain the desired changes. By understanding this cyclical flow of energy, one can gain a deeper understanding of how to effectively work within each sphere of life in order to achieve one's desired outcomes.
-
-The concept of flow in the context of spheres of life can also refer to the idea of a smooth, natural and effortless movement of energy between the different spheres. This can be compared to the flow of a river, where the water moves seamlessly and naturally between different areas, providing nourishment and growth along the way.
-
-In this sense, a person who has a balanced and healthy flow of energy between the different spheres of life, can feel fulfilled, energized and aligned in different aspects of their life. They can move through different spheres with ease, without feeling stuck or blocked in any particular area. This flow of energy can be multidimensional, meaning that it can involve different layers of emotions, thoughts and physical sensations that allow the person to feel grounded, balanced and harmonious.
-
-On the other hand, a person who does not have a healthy flow of energy between the spheres may feel disconnected and unaligned, experiencing blockages in different areas of their life, leading them to feel unfulfilled and disconnected. Thus, having a healthy flow of energy between spheres is key to achieving balance and fulfillment in life.
-
-### Flow between shperes
-Here are a few examples of how energy flow between spheres of life could work based on the concepts presented in the Multi-dimensional Life Model:
-
-* In the sphere of Image, individuals focus on developing a positive self-image and personal charm. This can lead to an increase in self-confidence and self-esteem, which can then be channeled into the sphere of Work, leading to increased productivity and success in one's career.
-* In the sphere of Study, individuals focus on expanding their awareness and knowledge. This can lead to an increase in creativity, which can then be channeled into the sphere of Art, leading to the creation of more meaningful and impactful works of art.
-* In the sphere of Family, individuals focus on fostering strong relationships and a sense of community. This can lead to an increase in empathy and understanding, which can then be channeled into the sphere of Love, leading to deeper and more meaningful relationships.
-* In the sphere of Health, individuals focus on taking care of their physical and mental well-being. This can lead to an increase in vitality and inspiration, which can then be channeled into the sphere of Sex, leading to a more fulfilling and satisfying sexual life.
-* In the sphere of Altruism, individuals focus on selflessness and serving others. This can lead to an increase in personal growth and self-awareness, which can then be channeled into the sphere of Trans, leading to greater flexibility and adaptability in different aspects of life.
-
-### Flow Patterns
-
-
-
-1. **Integration**: Integrating different aspects of the spheres of life to create a cohesive and harmonious whole. For example, incorporating physical activity and self-care practices into one's daily routine can help to enhance the flow of energy between the spheres of Health and Image.
-2. **Circulation**: Circulating energy between different spheres to create a balance and harmony. For example, regularly engaging in social activities and networking can help to enhance the flow of energy between the spheres of Friendship and Work.
-3. **Expansion**: Expanding energy from one sphere to another to create a sense of interconnectedness. For example, exploring new cultures and perspectives can help to enhance the flow of energy between the spheres of Study and Trans.
-4. **Reflection**: This flow pattern involves reflecting on the energy in one sphere to understand how it relates to other spheres. For example, reflecting on one's personal values and beliefs can help to enhance the flow of energy between the spheres of Altruism and Image.
-5. **Empowerment**: This flow pattern involves empowering oneself with the energy from one sphere to enhance the energy in another. For example, empowering oneself with financial stability can help to enhance the flow of energy between the spheres of Economy and Image.
-7. **Release**: This flow pattern involves releasing any blockages or tension in one sphere to enhance the flow of energy in another. For example, releasing stress and tension from work can help to enhance the flow of energy between the spheres of Work and Health.
-8. **Amplification**: This flow pattern involves amplifying energy from one sphere to enhance the energy in another. For example, amplifying creativity and self-expression in the sphere of Art can help to enhance the flow of energy between the spheres of Art and Image.
-9. **Harmonization**: This flow pattern involves harmonizing energy from one sphere with energy from another to create a sense of balance and harmony. For example, harmonizing personal values and beliefs with professional goals can help to enhance the flow of energy between the spheres of Altruism and Work.
-10. **Synchronicity**: This flow pattern involves a sense of synchronicity and interconnectedness between different spheres. For example, feeling a sense of synchronicity between personal growth and career development can help to enhance the flow of energy between the spheres of Trans and Work.
-11. **Amplification**: This flow pattern involves amplifying energy from one sphere to enhance the energy in another. For example, amplifying one's altruistic actions can help to enhance the flow of energy between the spheres of Altruism and Health.
-12. **Regeneration**: This flow pattern involves regenerating energy from one sphere to enhance the energy in another. For example, regenerating energy from sexual experiences can help to enhance the flow of energy between the spheres of Sex and Love.
+.
 
 ## Getting Started
 
