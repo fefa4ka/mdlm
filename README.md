@@ -374,8 +374,7 @@ Here are a few examples of how energy flow between spheres of life could work ba
 8. **Amplification**: This flow pattern involves amplifying energy from one sphere to enhance the energy in another. For example, amplifying creativity and self-expression in the sphere of Art can help to enhance the flow of energy between the spheres of Art and Image.
 9. **Harmonization**: This flow pattern involves harmonizing energy from one sphere with energy from another to create a sense of balance and harmony. For example, harmonizing personal values and beliefs with professional goals can help to enhance the flow of energy between the spheres of Altruism and Work.
 10. **Synchronicity**: This flow pattern involves a sense of synchronicity and interconnectedness between different spheres. For example, feeling a sense of synchronicity between personal growth and career development can help to enhance the flow of energy between the spheres of Trans and Work.
-11. **Amplification**: This flow pattern involves amplifying energy from one sphere to enhance the energy in another. For example, amplifying one's altruistic actions can help to enhance the flow of energy between the spheres of Altruism and Health.
-12. **Regeneration**: This flow pattern involves regenerating energy from one sphere to enhance the energy in another. For example, regenerating energy from sexual experiences can help to enhance the flow of energy between the spheres of Sex and Love
+11. **Regeneration**: This flow pattern involves regenerating energy from one sphere to enhance the energy in another. For example, regenerating energy from sexual experiences can help to enhance the flow of energy between the spheres of Sex and Love
 
 ### Complex structures in Field 
 The field of life is a complex system that is constantly in motion and is constantly changing. However, within this system there are some patterns that remain consistent.
