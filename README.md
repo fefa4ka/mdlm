@@ -257,7 +257,21 @@ The flow of the field of life is the combination of the attraction, repulsion, b
 The patterns of the field of life are the combination of the particles and fields that make up the field. 
 
 ### Complex structures in Field 
-The field of life is a complex system that is constantly in motion and is constantly changing. However, within this system there are some patterns that remain consistent. These patterns are known as “complex structures” and they are made up of the elements, zodiac signs, arcane tarot, alchemical stages and particles that make up the field. 
+The field of life is a complex system that is constantly in motion and is constantly changing. However, within this system there are some patterns that remain consistent.
+
+In this framework, each sphere of life can be associated with specific field entities that correspond to different aspects of the individual's experience.
+* **Image**: physical appearance, body, and sense of self.
+* **Economy**: financial and material resources.
+* **Study**: cognitive abilities, awareness, and understanding.
+* **Family**: relationships, feelings, and emotional well-being.
+* **Art**: ability to create, express, and experience beauty.
+* **Health**: physical and emotional health, and their ability to manage and maintain their energy levels.
+* **Love**: ability to connect, empathize, and relate to others.
+* **Sex**: sexual identity, expression, and experiences.
+* **Altruism**: connection to a higher purpose, their sense of meaning and purpose, and their sense of connection to something greater than themselves.
+* **Work**: ability to find and maintain meaningful work, their sense of purpose, and the role of work in their life.
+* **Friendship**: ability to connect, communicate and form relationships with others.
+* **Trans**: ability to transcend the self, to connect with something greater than themselves, and to adapt and evolve over time.
 
 
 ## Energy Flow
