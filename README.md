@@ -29,7 +29,7 @@ If the spheres were connected cyclically in a circle, it would imply that person
 
 * [Life Sphere Attributes](#life-sphere-attributes)
   + [Sphere of Life](#sphere-of-life): [Image](#image), [Economy](#economy), [Study](#study), [Family](#family), [Art](#art), [Health](#health), [Love](#love), [Sex](#sex), [Altruism](#altruism), [Work](#work), [Friendship](#friendship), [Trans](#trans)
-  + [Potential](#potential): [Charm](#charm), [Money](#money), [Awareness](#awareness), [Fervor](#fervor), [Creativity](#creativity), [Vitality](#vitality), [Empathy](#empathy), [Inspiration](#inspiration), [Selflessness](#selflessness), [Productivity:](#productivity-), [Bond](#bond), [Flexibility](#flexibility)
+  + [Potential](#potential): [Charm](#charm), [Money](#money), [Awareness](#awareness), [Fervor](#fervor), [Creativity](#creativity), [Vitality](#vitality), [Empathy](#empathy), [Inspiration](#inspiration), [Selflessness](#selflessness), [Productivity](#productivity-), [Bond](#bond), [Flexibility](#flexibility)
   + [Element](#element): [Fire](#fire), [Earth](#earth), [Air](#air), [Water](#water)
   + [Zodiac Sign](#zodiac-sign)
   + [Chinise zodiac](#chinise-zodiac)
