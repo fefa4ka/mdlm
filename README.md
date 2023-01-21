@@ -2,7 +2,11 @@
 
 This framework provides a holistic and multi-dimensional perspective on different aspects of human experience. It combines the concepts of sphere of life, element, zodiac sign, arcane tarot, and alchemical stage to provide a more complete and nuanced understanding of different areas of life.
 
-**Note**: This is a symbolic and metaphorical system and the associations are not definitive. It's important to remember that these concepts are open to interpretation. This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
+**Note**: Used associations are specific to different cultures and may not be familiar or relevant to everyone. It's recommended to start by familiarizing oneself with the images and associations that are specific to one's own culture or those that one understands. Mixing concepts is an advanced level and may not always be possible or appropriate. 
+
+It's important to remember that these concepts are open to interpretation and one should use their own judgement when applying them. It's also important to note that some of the concepts presented here are symbolic and metaphorical and should not be taken too literally.
+
+This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
 | Sphere of life | Potential | Element | Chackra | Spiritual Laws | Zodiac Sign | Chinese zodiac | Olympian gods | Jyotirlinga | Arcane Tarot | Deadly Sins | Brahmajāla Sūtra | Month | Alchemical stage |
 |-|-|-|-|-|-|-|-|-|-|-|-|-|-|
