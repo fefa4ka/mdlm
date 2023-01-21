@@ -253,7 +253,14 @@ In the context of field theory, objects in the field may have polarities, valenc
 * **Valence** refers to the degree of attraction or repulsion that an object in the field has for other objects in the field. For example, an individual with a strong and positive self-image may have a high valence for positive social interactions, while an individual with a negative self-image may have a low valence for these interactions.
 * **Charge** refers to the amount of energy that an object in the field has, which can influence its interactions with other objects in the field. For example, an individual with a positive self-image may have a high charge of energy and motivation, which can attract positive opportunities, while an individual with a negative self-image may have a low charge of energy and motivation, which can repel these opportunities.
 
-### Interaction
+### Topology
+The shape and structure of the field, which can influence the interactions of objects within the field. For example, an individual with a positive self-image may experience a field with a certain topology, such as a spiral or torus, which can influence their interactions with other objects in the field, such as opportunities, resources, and relationships.
+
+
+### Dynamics
+The movement and change of the field over time, which can influence the interactions of objects within the field. For example, an individual with a positive self-image may experience a field with certain dynamics, such as oscillations or chaos, which can influence their interactions with other objects in the field, such as opportunities, resources, and relationships.
+
+#### Interaction
 Other concepts that can be used to understand the interactions and influences of objects in the field include:
 
 * **Resonance**: The degree of similarity or compatibility between two objects in the field, which can influence their interactions. For example, an individual with a positive self-image may resonate with positive and supportive individuals, while an individual with a negative self-image may resonate with negative and critical individuals.
@@ -264,10 +271,12 @@ Other concepts that can be used to understand the interactions and influences of
 These concepts can be used in combination with the polarities, valences, and charges to help understand and explain the interactions and influences of objects in the field. It's worth noting that these concepts are not mutually exclusive and can be used together to understand the complex dynamics of the field.
 
 ### Field Properties
-* **Field gradient**: The degree of variation in the field
-* **Field intensity**: The degree of energy or strength of the field
-* **Field symmetry**: The degree of balance or symmetry within the field
-* **Field stability**: The degree of stability or consistency within the field
+* **Gradient**: The degree of variation in the field
+* **Intensity**: The degree of energy or strength of the field
+* **Symmetry**: The degree of balance or symmetry within the field
+* **Stability**: The degree of stability or consistency within the field
+* **Coherence**: The degree of alignment and consistency within the field
+* **Entropy**: The degree of disorder or randomness within the field
 
 ### Flow 
 Kurt Lewin's Change Model provides a useful framework for understanding the flow of energy in each sphere of life. According to this model, the flow of energy is cyclical in nature and involves four stages: Unfreezing, Changing, Refreezing, and Sustaining. 
