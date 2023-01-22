@@ -1,6 +1,6 @@
 # Multi-dimensional Life Model
 
-This framework provides a holistic and multi-dimensional perspective on different aspects of human experience. It combines the concepts of sphere of life, potential, element, chackra, spiritual law, zodiac sign, chinese zodiac, olympian god, jyotirlinga, arcane tarot, deadly sin, brahmajāla sūtra, month, and alchemical stage to provide a more complete and nuanced understanding of different areas of life.
+This framework provides a holistic and multi-dimensional perspective on different aspects of human experience. It combines the concepts of sphere of life, potential, physical, spirital, philosophical, time-based, and intellectual attributes to provide a more complete and nuanced understanding of different areas of life.
 
 **Note**: Used associations are specific to different cultures and may not be familiar or relevant to everyone. It's recommended to start by familiarizing oneself with the images and associations that are specific to one's own culture or those that one understands. Mixing concepts is an advanced level and may not always be possible or appropriate. 
 
