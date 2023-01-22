@@ -22,6 +22,9 @@ This is not a guide to action, in the process of studying the topic, I decided *
 > “Nothing is as practical as a good theory,” and “the best way to understand something is to try to change it.” 
 > - Kurt Lewin
 
+> "The key to growth is the introduction of higher dimensions of consciousness into our awareness." 
+> - Lao Tzu
+
 | Sphere of life                | Potential                     | Physical attributes |                 |                             | Spritual attributes  |                 |                 |                          |                      |                   |                      |                             | Philosophical attributes |                 |                    | Time-based attributes |           |                      | Intellectual attributes |                        |                         |
 | ----------------------------- | ----------------------------- | ------------------- | --------------- | --------------------------- | -------------------- | --------------- | --------------- | ------------------------ | -------------------- | ----------------- | -------------------- | --------------------------- | ------------------------ | --------------- | ------------------ | --------------------- | --------- | -------------------- | ----------------------- | ---------------------- | ----------------------- |
 |                               |                               | **Element**         | **Wave**        | **Chackra**                 | **Spiritual Laws**   | **Jyotirlinga** | **Deadly Sins** | **Brahmajāla Sūtra**     | **Imams**            | **Olympian gods** | **Tribes of Israel** | **Apostles**                | **Arcane Tarot**         | **Zodiac Sign** | **Chinese zodiac** | **Month**             | **Day**   | **Alchemical stage** | **Math Concept**        | **Physics Concept**    | **Programming Concept** |
