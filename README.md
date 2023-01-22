@@ -4,10 +4,17 @@ This framework provides a holistic and multi-dimensional perspective on differen
 
 **Note**: Used associations are specific to different cultures and may not be familiar or relevant to everyone. It's recommended to start by familiarizing oneself with the images and associations that are specific to one's own culture or those that one understands. Mixing concepts is an advanced level and may not always be possible or appropriate. 
 
-It's important to remember that these concepts are open to interpretation and one should use their own judgement when applying them. It's also important to note that some of the concepts presented here are symbolic and metaphorical and should not be taken too literally.
+It's important to remember that these concepts are open to interpretation and one should use their own judgement when applying them. It's also important to note that some of the concepts presented here are symbolic and metaphorical and should not be taken too literally, words are only a means to navigate to the actual object or phenomenon in the real world.
+
+The **MDLM** can be thought of as a map of the structure of the spheres of life. It is not necessary to study all of the concepts presented here in depth, as understanding just one of the associations can provide insight into the structure of that particular sphere. This model serves as a starting point for deeper understanding and self-reflection.
 
 This is not a guide to action, in the process of studying the topic, I decided **just for fun** to describe it in the context of an IT solution.
 
+> "Words are a means to navigate in the world of form, but they cannot take you beyond it." 
+> - Eckhart Tolle, "A New Earth: Awakening to Your Life's Purpose"
+
+> "It is not necessary to know everything about a subject in order to understand something about it."
+> - Mortimer J. Adler, "How to Read a Book"
 
 | Sphere of life                | Potential                     | Physical attributes |                 |                             | Spritual attributes  |                 |                 |                          |                      |                   |                      |                             | Philosophical attributes |                 |                    | Time-based attributes |           |                      | Intellectual attributes |                        |                         |
 | ----------------------------- | ----------------------------- | ------------------- | --------------- | --------------------------- | -------------------- | --------------- | --------------- | ------------------------ | -------------------- | ----------------- | -------------------- | --------------------------- | ------------------------ | --------------- | ------------------ | --------------------- | --------- | -------------------- | ----------------------- | ---------------------- | ----------------------- |
