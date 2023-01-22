@@ -19,7 +19,7 @@ This is not a guide to action, in the process of studying the topic, I decided *
 > "The best moments usually occur if a person's body or mind is stretched to its limits in a voluntary effort to accomplish something difficult and worthwhile." 
 > - Mihaly Csikszentmihalyi, Flow: The Psychology of Optimal Experience.
 
-> "There is nothing so practical as a good theory." 
+> “Nothing is as practical as a good theory,” and “the best way to understand something is to try to change it.” 
 > - Kurt Lewin
 
 | Sphere of life                | Potential                     | Physical attributes |                 |                             | Spritual attributes  |                 |                 |                          |                      |                   |                      |                             | Philosophical attributes |                 |                    | Time-based attributes |           |                      | Intellectual attributes |                        |                         |
