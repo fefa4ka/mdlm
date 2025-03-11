@@ -68,5 +68,12 @@ A balanced Image domain allows for authentic self-expression without excessive a
 4. **Authentic Image**: Alignment of inner truth with outer expression
 5. **Transcendent Image**: Freedom from attachment to others' perceptions while maintaining effective self-expression
 
+These developmental stages align with the alchemical transformation process, where:
+- The transition from Unconscious to Self-Conscious Image involves Calcination (burning away ignorance)
+- Moving from Self-Conscious to Curated Image requires Dissolution and Separation (emotional processing and discernment)
+- The shift to Authentic Image embodies Conjunction (reuniting inner essence with outer expression)
+- Deepening authenticity involves Fermentation and Distillation (allowing new expression to emerge and refine)
+- Achieving Transcendent Image represents Coagulation (embodying consistent authentic presence)
+
 ## Conclusion
 The Image domain serves as our interface with the world - not merely a superficial concern but a profound aspect of human experience that bridges our inner and outer realities. By consciously developing this domain, we can ensure that how we are perceived aligns with who we truly are, creating harmony between essence and appearance.

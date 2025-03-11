@@ -66,5 +66,12 @@ A balanced Economy domain allows for material security without excessive attachm
 4. **Growth Economy**: Expanding resources and creating wealth
 5. **Abundance Economy**: Experiencing sufficiency and practicing generosity
 
+These developmental stages correspond to the alchemical transformation process, where:
+- The transition from Dependent to Survival Economy involves Calcination (confronting limiting beliefs)
+- Moving from Survival to Stability Economy requires Dissolution and Separation (processing financial fears and discerning productive behaviors)
+- The shift to Growth Economy embodies Conjunction (integrating financial management with values)
+- Deepening growth involves Fermentation and Distillation (allowing creative destruction and refining strategies)
+- Achieving Abundance Economy represents Coagulation (embodying a state where resources flow naturally in service to purpose)
+
 ## Conclusion
 The Economy domain serves as our material foundation - not merely a practical concern but a profound aspect of human experience that reflects our values and supports our aspirations. By consciously developing this domain, we can ensure that our relationship with resources aligns with our deeper purpose, creating harmony between material means and meaningful ends.
