@@ -43,6 +43,19 @@ The Economy domain influences and is influenced by:
 - **Work**: Exchange of labor for compensation
 - **Health**: Investment in physical wellbeing and healthcare
 
+## Lewin's Field Theory Application
+Through the lens of Kurt Lewin's Field Theory, the Economy domain can be understood as:
+
+1. **Force Field Analysis**: Economic behavior emerges from the tension between driving forces (desire for security, growth aspirations) and restraining forces (fear of loss, limiting beliefs about money) that create dynamic equilibrium in our financial life.
+
+2. **Life Space Regions**: Our economic reality occupies distinct regions within our psychological field, with varying degrees of accessibility and influence on other life domains.
+
+3. **Boundary Conditions**: The Economy domain has permeable boundaries with other domains, where resources flow between areas of life according to our values and priorities.
+
+4. **Group Dynamics**: Our economic decisions are influenced by reference groups and social fields that establish norms around spending, saving, and valuing resources.
+
+5. **Three-Step Change Model**: Transforming our economic situation requires unfreezing established patterns (recognizing limiting beliefs), moving to new behaviors (implementing different financial practices), and refreezing (establishing new habits and systems).
+
 ## Balancing the Economy Domain
 A balanced Economy domain allows for material security without excessive attachment to wealth. It enables one to meet needs and pursue meaningful desires while maintaining ethical alignment and generosity toward others.
 
